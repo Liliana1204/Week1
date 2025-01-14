@@ -1,14 +1,18 @@
 # Week1
 #create folders
+
+
 mkdir CIS
 mkdir CIS/Artifacts
 mkdir CIS/Templates
 mkdir CIS/Tools
 
 #In the Tools folder run the following code to get the downloads in the tools folder
+
 cd CIS/Tools
 
 #download the tools
+
 git clone https://github.com/danielmiessler/SecLists.git
 git clone https://github.com/lgandx/Responder.git
 git clone https://github.com/fortra/impacket.git
